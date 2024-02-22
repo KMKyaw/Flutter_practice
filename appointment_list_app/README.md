@@ -1,4 +1,4 @@
-# to_do_app
+# appointment app
 
 A new Flutter project.
 
